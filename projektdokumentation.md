@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-✍️ Ihr Nachname
+Pantic
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
