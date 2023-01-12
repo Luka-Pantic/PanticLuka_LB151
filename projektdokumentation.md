@@ -14,20 +14,22 @@ Pantic
 
 # 0 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welches Benutzern Bücher herausgeben kann und dem Benutzer generelle Informationen über das Werk liefert (Titel, Autor, Erscheinungsdatum, Sprache, Seitenzahl, Verlag etc.).
 
 # 1 Analyse
 
 ✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
 
-* Tier 1 (Presentation): ...
-* Tier 2 (Webserver):
+* Tier 1 (Presentation): 
+* Tier 2 (Webserver):              
 * Tier 3 (Application Server):
 * Tier 4 (Dataserver):
 
 # 2 Technologie
-
-✍️ Beschreiben Sie für dieselben Tiers, welche Programmiersprache bzw. Technologie Sie verwenden möchten.
+* Tier 1: 
+* Tier 2:
+* Tier 3: 
+* Tier 4: MySql MVC item
 
 # 3 Datenbank
 
