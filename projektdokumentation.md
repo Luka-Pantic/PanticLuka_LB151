@@ -14,7 +14,7 @@ Pantic
 
 # 0 Ihr Projekt
 
-Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welches Benutzern Bücher herausgeben kann und dem Benutzer generelle Informationen über das Werk liefert (Titel, Autor, Erscheinungsdatum, Sprache, Seitenzahl, Verlag etc.).
+Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welches Benutzern Bücher herausgeben kann und dem Benutzer generelle Informationen über das Werk liefert (Titel, Autor, Erscheinungsdatum, Sprache, Seitenzahl, Verlag etc.).Ich möchte probieren dieses Projekt in Form einer ASP.Net MVC Webapplikation zu realisieren.
 
 # 1 Analyse
 
@@ -26,12 +26,9 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 * Tier 4 (Dataserver):
 
 # 2 Technologie
-* Tier 1: 
-* Tier 2:
-* Tier 3: 
-* Tier 4: MySql MVC item
-
-# 3 Datenbank
+* Presentaion Tier: ASP.Net WebForms
+* Business Tier: C# Klassen
+* Persistenz Tier: MySql MVC items
 
 ✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut? 
 
