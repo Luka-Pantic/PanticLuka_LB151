@@ -4,7 +4,7 @@ Pantic
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   11.01.2023    | 0.0.1   |Erste Version der Doku, Punkte 1 bis und mit 4 behandelt.  |
+|   11.01.2023    | 0.0.1   |Erste Version der Doku, Punkte 0 bis und mit 4 behandelt.  |
 |       | 0.0.2   |                                                              |
 |       | 0.0.3   |                                                              |
 |       | 0.0.4   |                                                              |
