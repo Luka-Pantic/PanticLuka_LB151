@@ -20,10 +20,10 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 
 ✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
 
-* Tier 1 (Presentation): 
+* Tier 1 (Presentation): User interface
 * Tier 2 (Webserver):              
-* Tier 3 (Application Server):
-* Tier 4 (Dataserver):
+* Tier 3 (Application Server): Logik
+* Tier 4 (Dataserver): Datenbank
 
 # 2 Technologie
 * Presentaion Tier: ASP.Net WebForms
