@@ -30,6 +30,7 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 * Business Tier: C# Klassen
 * Persistenz Tier: MySql MVC items
 
+# 3 Datenbank
 ✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut? 
 
 # 4.1 User Stories
