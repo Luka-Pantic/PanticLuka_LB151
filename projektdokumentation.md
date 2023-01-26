@@ -43,24 +43,24 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
 | 2    |    Muss             | Funktional     | Als Bibliothekar möchte ich mich mit einem "Administrator" Konto anmelden können, damit ich Bücher hinzufügen und entfernen kann.
-| 3    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 4    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 5    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 6    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 7    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 8    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 9    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 10    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 11    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 12    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 13    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 14    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 15    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 16    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 17    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 18    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 19    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 20    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
+| 3    |    Muss             | Funktional     | Als Kunde möchte ich ein  |
+| 4    |    Muss             | Funktional     |  |
+| 5    |    Muss             | Funktional     |  |
+| 6    |    Muss             | Funktional     |  |
+| 7    |    Muss             | Funktional     |  |
+| 8    |    Muss             | Funktional     |  |
+| 9    |    Muss             | Funktional     |  |
+| 10    |    Muss             | Funktional     |  |
+| 11    |    Muss             | Funktional     |  |
+| 12    |    Muss             | Funktional     |  |
+| 13    |    Muss             | Funktional     |  |
+| 14    |    Muss             | Funktional     | |
+| 15    |    Muss             | Funktional     |  |
+| 16    |    Muss             | Funktional     |  |
+| 17    |    Muss             | Funktional     |  |
+| 18    |    Muss             | Funktional     |  |
+| 19    |    Muss             | Funktional     | |
+| 20    |    Muss             | Funktional     |  |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
