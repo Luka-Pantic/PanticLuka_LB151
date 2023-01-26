@@ -41,8 +41,8 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |    Muss             | Funktional     | Als Kund möchte ich , damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
+| 2    |    Muss             | Funktional     | Als Bibliothekar möchte ich mich mit einem "Administrator" Konto anmelden können, damit ich Bücher hinzufügen und entfernen kann.                                  |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
