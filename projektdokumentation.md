@@ -6,7 +6,7 @@ Pantic
 | ----- | ------- | ------------------------------------------------------------ |
 |   11.01.2023    | 0.0.1   |Erste Version der Doku, Punkte 0 bis und mit 3 behandelt.  |
 |   26.01.2023    | 0.0.2   |UserStories zur Projektidee formuliert, ersten "Prototypen" erstellt.                                                              |
-|       | 0.0.3   |                                                              |
+|   21.02.2023    | 0.0.3   |UserStories fertiggestellt, login implementiert.                                                              |
 |       | 0.0.4   |                                                              |
 |       | 0.0.5   |                                                              |
 |       | 0.0.6   |                                                              |
@@ -43,8 +43,8 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
 | 2    |    Muss             | Funktional     | Als Bibliothekar möchte ich mich mit einem "Administrator" Konto anmelden können, damit ich Bücher hinzufügen und entfernen kann.
-| 3    |    Muss             | Funktional     | Als Kunde möchte ich ein  |
-| 4    |    Muss             | Funktional     |  |
+| 3    |    Muss             | Funktional     | Als Kunde möchte ich ein Benutzerkonto erstellen können, um Zugriff auf die Plattform zu erhalten. |
+| 4    |    Muss             | Funktional     | Als Kunde möchte ich mich mit einem bereits bestehenden Benutzerkonto anmelden können, um Zugriff auf die Plattform zu erhalten.  |
 | 5    |    Muss             | Funktional     |  |
 | 6    |    Muss             | Funktional     |  |
 | 7    |    Muss             | Funktional     |  |
