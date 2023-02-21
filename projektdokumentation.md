@@ -41,13 +41,13 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken könne , damit ich weitere Informationen über das Werk erhalten kann. |
-| 2    |    Muss             | Funktional     | Als Bibliothekar möchte ich mich mit einem "Administrator" Konto anmelden können, damit ich Bücher hinzufügen und entfernen kann.
-| 3    |    Muss             | Funktional     | Als Kunde möchte ich ein Benutzerkonto erstellen können, um Zugriff auf die Plattform zu erhalten. |
-| 4    |    Muss             | Funktional     | Als Kunde möchte ich mich mit einem bereits bestehenden Benutzerkonto anmelden können, um Zugriff auf die Plattform zu erhalten.  |
-| 5    |    Muss             | Funktional     |  |
-| 6    |    Muss             | Funktional     |  |
-| 7    |    Muss             | Funktional     |  |
+| 1    |    Muss             | Funktional     | Als Kunde möchte ich ein Benutzerkonto erstellen können, um Zugriff auf die Plattform zu erhalten.  |
+| 2    |    Muss             | Funktional     |  Als Kunde möchte ich mich mit einem bereits bestehenden Benutzerkonto anmelden können, um Zugriff auf die Plattform zu erhalten.
+| 3    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken können , damit ich weitere Informationen über das Werk erhalten kann.  |
+| 4    |    Kann             | Funktional     |  Als Bibliothekar möchte ich mich mit einem "Administrator" Konto anmelden können, damit ich Bücher hinzufügen und entfernen kann. |
+| 5    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch ausleihen können, damit ich dieses über einen bestimmten Zeitraum hinweg lesen kann.   |
+| 6    |    Kann             | Funktional     | Als Kunde möchte ich eine Bestätigungsemail nach dem Ausleihen auf die Email Adresse meines Benutzerkontos erhalten. |
+| 7    |    Muss             | Funktional     | Als Bibliothekar möchte möchte ich sehen können wann, welche Werke, von welchen Kunden ausgeliehen worden sind, damit ich    |
 | 8    |    Muss             | Funktional     |  |
 | 9    |    Muss             | Funktional     |  |
 | 10    |    Muss             | Funktional     |  |
