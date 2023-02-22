@@ -44,23 +44,23 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 | 1    |    Muss             | Funktional     | Als Kunde möchte ich ein Benutzerkonto erstellen können, um Zugriff auf die Plattform zu erhalten.  |
 | 2    |    Muss             | Funktional     |  Als Kunde möchte ich mich mit einem bereits bestehenden Benutzerkonto anmelden können, um Zugriff auf die Plattform zu                                                  erhalten.
 | 3    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken können , damit ich weitere Informationen (Autor, Erscheinungsjahr, Genre,                                                       Verlag und Sprache) über das Werk erhalten kann.  |
-| 4    |    Kann             | Funktional     |  Als Bibliothekar möchte ich mich mit einem "Administrator" Konto anmelden können, damit ich Bücher hinzufügen und                                                      entfernen kann. |
+| 4    |    Muss             | Funktional     |  Als Bibliothekar möchte ich mich mit einem "Administrator" Konto anmelden können, damit ich Bücher hinzufügen und                                                      entfernen kann. |
 | 5    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch ausleihen können, damit ich dieses über einen bestimmten Zeitraum hinweg lesen kann.   |
 | 6    |    Kann             | Funktional     | Als Kunde möchte ich eine Bestätigungsemail nach dem Ausleihen auf die Email Adresse meines Benutzerkontos erhalten. |
 | 7    |    Muss             | Funktional     | Als Bibliothekar möchte möchte ich sehen können wann, welche Werke, von welchen Kunden ausgeliehen worden sind und wann                                                 diese zurückgebracht werden müssen, damit ich sehe, ob noch welche Bücher überfällig sind.    |
 | 8    |    Muss             | Funktional     | Als Kunde möchte ich mein Profil einsehen können, damit ich sehen kann welche Werke ich ausgeliehen habe und weiss wann                                                 ich diese wieder zurückbringen muss. |
 | 9    |    Kann             | Funktional     | Als Kunde möchte ich mein Profil einsehen können, damit ich auf Wunsch meine Zugangsdaten (Passwort und Email) ändern                                                   kann. |
-| 10    |    Muss             | Funktional     |  |
-| 11    |    Muss             | Funktional     |  |
-| 12    |    Muss             | Funktional     |  |
-| 13    |    Muss             | Funktional     |  |
-| 14    |    Muss             | Funktional     | |
+| 10    |   Kann             | Qualität     |  Als Kunde möchte ich einen "Dark-mode" in der Applikation aktivieren können, um meine Augen etwas zu schonen.|
+| 11    |    Muss             | Qualität     |Als Kunde möchte ich das die Applikation stabil in der Ausführung läuft.  |
+| 12    |    Kann             | Funktional     |Als Kunde möchte ich eine "Errinerungsemail" erhalten, welche mich etwas 2-3 Tage vorher an meine Deadline erinnert. |
+| 13    |    Muss             | Funktional     |Als Kunde möchte ich eine Suchleiste benutzen können, damit ich nach meinem gewünschten Werk suchen kann.  |
+| 14    |    Muss             | Funktional     |Als Kunde möchte ich verschiedene Filter anwenden können, damit ich ein passendes Buch, welches meinen Präferenzen entspricht finden kann (Genre, )  |
 | 15    |    Muss             | Funktional     |  |
 | 16    |    Muss             | Funktional     |  |
 | 17    |    Muss             | Funktional     |  |
 | 18    |    Muss             | Funktional     |  |
 | 19    |    Muss             | Funktional     | |
-| 20    |    Muss             | Funktional     |  |
+| 20    |    Muss             | Rand     | Als Kunde möchte ich die Applikation ab dem 2. März 2023 benutzen können, damit ich nichtmehr am Schalter schlange stehen                                              muss.  |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
