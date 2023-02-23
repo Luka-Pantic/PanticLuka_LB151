@@ -26,7 +26,7 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 * Tier 4 (Dataserver): Datenbank
 
 # 2 Technologie
-* Presentaion Tier: ASP.Net WebForms
+* Presentaion Tier: ASP.Net WebForms, Bootstrap
 * Business Tier: C# Klassen
 * Persistenz Tier: MySql MVC items
 
