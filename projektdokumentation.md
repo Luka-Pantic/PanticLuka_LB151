@@ -77,6 +77,9 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 
 ✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
 
+![Screenshot 2023-02-23 110905](https://user-images.githubusercontent.com/69889967/220878714-5cc0bd5f-36a8-4e40-9aca-8bcbd4f79ad1.png)
+
+
 
 
 # 6 Implementation
