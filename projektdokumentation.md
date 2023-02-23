@@ -6,7 +6,7 @@ Pantic
 | ----- | ------- | ------------------------------------------------------------ |
 |   11.01.2023    | 0.0.1   |Erste Version der Doku, Punkte 0 bis und mit 3 behandelt.  |
 |   26.01.2023    | 0.0.2   |UserStories zur Projektidee formuliert, ersten "Prototypen" erstellt.                                                              |
-|   21.02.2023    | 0.0.3   |UserStories fertiggestellt, login implementiert.                                                              |
+|   21.02.2023    | 0.0.3   |UserStories fertiggestellt, Mockup erstellt, login implementiert.                                                              |
 |       | 0.0.4   |                                                              |
 |       | 0.0.5   |                                                              |
 |       | 0.0.6   |                                                              |
@@ -48,19 +48,19 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 | 5    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch ausleihen können, damit ich dieses über einen bestimmten Zeitraum hinweg lesen kann.   |
 | 6    |    Kann             | Funktional     | Als Kunde möchte ich eine Bestätigungsemail nach dem Ausleihen auf die Email Adresse meines Benutzerkontos erhalten. |
 | 7    |    Muss             | Funktional     | Als Bibliothekar möchte möchte ich sehen können wann, welche Werke, von welchen Kunden ausgeliehen worden sind und wann                                                 diese zurückgebracht werden müssen, damit ich sehe, ob noch welche Bücher überfällig sind.    |
-| 8    |    Muss             | Funktional     | Als Kunde möchte ich mein Profil einsehen können, damit ich sehen kann welche Werke ich ausgeliehen habe und weiss wann                                                 ich diese wieder zurückbringen muss. |
+| 8    |    Muss             | Funktional     | Als Kunde möchte ich eine Liste der von mir ausgeliehnen Bücher einsehen können, damit ich sehen kann welche Werke ich                                                 ausgeliehen habe und weiss wann ich diese wieder zurückbringen muss. |
 | 9    |    Kann             | Funktional     | Als Kunde möchte ich mein Profil einsehen können, damit ich auf Wunsch meine Zugangsdaten (Passwort und Email) ändern                                                   kann. |
 | 10    |   Kann             | Qualität     |  Als Kunde möchte ich einen "Dark-mode" in der Applikation aktivieren können, um meine Augen etwas zu schonen.|
 | 11    |    Muss             | Qualität     |Als Kunde möchte ich das die Applikation stabil in der Ausführung läuft.  |
 | 12    |    Kann             | Funktional     |Als Kunde möchte ich eine "Errinerungsemail" erhalten, welche mich etwas 2-3 Tage vorher an meine Deadline erinnert. |
 | 13    |    Muss             | Funktional     |Als Kunde möchte ich eine Suchleiste benutzen können, damit ich nach meinem gewünschten Werk suchen kann.  |
-| 14    |    Muss             | Funktional     |Als Kunde möchte ich verschiedene Filter anwenden können, damit ich ein passendes Buch, welches meinen Präferenzen entspricht finden kann (Genre, )  |
-| 15    |    Muss             | Funktional     |  |
-| 16    |    Muss             | Funktional     |  |
-| 17    |    Muss             | Funktional     |  |
-| 18    |    Muss             | Funktional     |  |
-| 19    |    Muss             | Funktional     | |
-| 20    |    Muss             | Rand     | Als Kunde möchte ich die Applikation ab dem 2. März 2023 benutzen können, damit ich nichtmehr am Schalter schlange stehen                                              muss.  |
+| 14    |    Kann             | Funktional     |Als Kunde möchte ich verschiedene Filter anwenden können, damit ich ein passendes Buch, welches meinen Vorlieben                                                       entspricht finden kann (Genre, Seitenzahl, Autor, Verlag)  |
+| 15    |    Muss             | Funktional     |Als Kunde möchte ich meine ausgeliehenen Bücher verlängern können, falls ich sie nicht rechtzeitig zurückbringen kann.  |
+| 16    |    Muss             | Funktional     |Als Kunde möchte ich die Verfügbarkeit eines Buches überprüfen können, damit ich dafür nicht extra zur Bibliothek                                                       laufen muss. |
+| 17    |    Kann             | Funktional     |Als Kunde möchte ich die Möglichketi haben nach Büchern auf Englisch suchen zu können, damit ich meine Sprachkenntnisse                                                 verbessern kann.  |
+| 18    |    Kann             | Funktional     |Als Kunde möchte ich die Möglichkeit haben mir meine ausgeliehnen Werke per Post nachhauseschicken zu können, damit ich                                                 nicht extra zur Bibliothek muss, um dieses abzuholen.  |
+| 19    |    Muss             | Funktional     |Als Kunde möchte ich die Möglichkeit haben eine Rezenssion zu einem Werk zu hinterlassen, um zukünftigen Lesern einen                                                   Ratschlag hinterlassen zu können. |
+| 20    |    Muss             | Rand            | Als Kunde möchte ich die Applikation ab dem 2. März 2023 benutzen können, damit ich nichtmehr am Schalter schlange                                                      stehen muss.  |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
