@@ -77,6 +77,8 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 
 ✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
 
+
+
 # 6 Implementation
 
 ✍️ Halten Sie fest, wann Sie welche User Story bearbeitet haben
