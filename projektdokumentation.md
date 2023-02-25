@@ -42,7 +42,7 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |    Muss             | Funktional     | Als Kunde möchte ich ein Benutzerkonto erstellen können, um Zugriff auf die Plattform zu erhalten.  |
-| 2    |    Muss             | Funktional     |  Als Kunde möchte ich mich mit einem bereits bestehenden Benutzerkonto anmelden können, um Zugriff auf die Plattform zu                                                  erhalten.
+| 2    |    Muss             | Funktional     |  Als Kunde möchte ich mich mit einem bereits bestehenden Benutzerkonto anmelden können, um Zugriff auf die Plattform zu                                                  erhalten.|
 | 3    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch anklicken können , damit ich weitere Informationen (Autor, Erscheinungsjahr, Genre,                                                       Verlag und Sprache) über das Werk erhalten kann.  |
 | 4    |    Muss             | Funktional     |  Als Bibliothekar möchte ich mich mit einem "Administrator" Konto anmelden können, damit ich Bücher hinzufügen und                                                      entfernen kann. |
 | 5    |    Muss             | Funktional     | Als Kunde möchte ich ein Buch ausleihen können, damit ich dieses über einen bestimmten Zeitraum hinweg lesen kann.   |
@@ -57,10 +57,10 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 | 14    |    Kann             | Funktional     |Als Kunde möchte ich verschiedene Filter anwenden können, damit ich ein passendes Buch, welches meinen Vorlieben                                                       entspricht finden kann (Genre, Seitenzahl, Autor, Verlag)  |
 | 15    |    Muss             | Funktional     |Als Kunde möchte ich meine ausgeliehenen Bücher verlängern können, falls ich sie nicht rechtzeitig zurückbringen kann.  |
 | 16    |    Muss             | Funktional     |Als Kunde möchte ich die Verfügbarkeit eines Buches überprüfen können, damit ich dafür nicht extra zur Bibliothek                                                       laufen muss. |
-| 17    |    Kann             | Funktional     |Als Kunde möchte ich die Möglichketi haben nach Büchern auf Englisch suchen zu können, damit ich meine Sprachkenntnisse                                                 verbessern kann.  |
-| 18    |    Kann             | Funktional     |Als Kunde möchte ich die Möglichkeit haben mir meine ausgeliehnen Werke per Post nachhauseschicken zu können, damit ich                                                 nicht extra zur Bibliothek muss, um dieses abzuholen.  |
-| 19    |    Muss             | Funktional     |Als Kunde möchte ich die Möglichkeit haben eine Rezenssion zu einem Werk zu hinterlassen, um zukünftigen Lesern einen                                                   Ratschlag hinterlassen zu können. |
-| 20    |    Muss             | Rand            | Als Kunde möchte ich die Applikation ab dem 2. März 2023 benutzen können, damit ich nichtmehr am Schalter schlange                                                      stehen muss.  |
+| 17    |    Kann             | Funktional     |Als Kunde möchte ich die Möglichkeit haben nach Büchern auf Englisch suchen zu können, damit ich meine Sprachkenntnisse                                                 verbessern kann.  |
+| 18    |    Kann             | Funktional     |Als Kunde möchte ich die Möglichkeit haben mir meine ausgeliehenen Werke per Post nachhause schicken zu können, damit ich                                                 nicht extra zur Bibliothek muss, um dieses abzuholen.  |
+| 19    |    Muss             | Funktional     |Als Kunde möchte ich die Möglichkeit haben eine Rezension zu einem Werk zu hinterlassen, um zukünftigen Lesern einen                                                   Ratschlag hinterlassen zu können. |
+| 20    |    Muss             | Rand            | Als Kunde möchte ich die Applikation ab dem 2. März 2023 benutzen können, damit ich nicht mehr am Schalter Schlange                                                      stehen muss. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
