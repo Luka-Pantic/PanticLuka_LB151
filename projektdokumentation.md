@@ -7,7 +7,7 @@ Pantic
 |   11.01.2023    | 0.0.1   |Erste Version der Doku, Punkte 0 bis und mit 3 behandelt.  |
 |   26.01.2023    | 0.0.2   |UserStories zur Projektidee formuliert, ersten "Prototypen" erstellt.                                                              |
 |   21.02.2023    | 0.0.3   |UserStories fertiggestellt, Mockup erstellt, login implementiert.                                                              |
-|       | 0.0.4   |                                                              |
+| 23.02.2023 | 0.0.4   | Konzeptionelles Datenmodell erstellt, implementation des GUI's |
 |       | 0.0.5   |                                                              |
 |       | 0.0.6   |                                                              |
 |       | 1.0.0   |                                                              |
@@ -86,9 +86,10 @@ Ich habe mir vorgestellt ein "Bibliotheksverwaltungssystem" zu entwickeln, welch
 
 ✍️ Halten Sie fest, wann Sie welche User Story bearbeitet haben
 
-| User Story | Datum | Beschreibung |
-| ---------- | ----- | ------------ |
-| ...        |       |              |
+| User Story | Datum      | Beschreibung                                                 |
+| ---------- | ---------- | ------------------------------------------------------------ |
+| 3          | 22.02.2023 | Erstellen des GUI-Mockups, Erstellen eines konzeptionellen Datenmodells, Implementation des GUI's |
+| 3          | 25.02.2023 | Fertigstellen des GUI's, Erstellen und Einbinden der Datenbank, Befüllung mit Testdaten |
 
 # 7 Projektdokumentation
 
